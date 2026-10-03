@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of foumtaro/image-optimizer.** Not for installation: use [Packagist](https://packagist.org/packages/foumtaro/image-optimizer) or the [upstream repository](https://github.com/forumtaro/flarum-image-optimizer).
 
-**0** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/foumtaro-image-optimizer/tree/archive/v0.0.2) · Flarum: `^1.8`
+**2** versions archived · Latest: [`0.0.2`](https://github.com/flarchive/foumtaro-image-optimizer/tree/archive/v0.0.2) · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2026-05-04 | `^1.0` | [Browse](https://github.com/flarchive/foumtaro-image-optimizer/tree/archive/v0.0.1) |
+| `0.0.2` | 2026-05-04 | `^1.8` | [Browse](https://github.com/flarchive/foumtaro-image-optimizer/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/foumtaro-image-optimizer.json](https://github.com/flarchive/archive-index/blob/main/packages/foumtaro-image-optimizer.json)
 
